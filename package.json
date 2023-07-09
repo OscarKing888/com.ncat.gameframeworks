@@ -1,0 +1,17 @@
+{
+  "name": "com.ncat.gameframeworks",
+  "version": "0.1.0",
+  "displayName": "NCat Gameframeworks",
+  "description": "This packages includes helpful runtime and editor additions of gameplay elements to Unity.",
+  "unity": "2021.3",
+  "keywords": [
+    "Utilities",
+    "Utils",
+    "NCat",
+    "Gameplay"
+  ],
+  "author": {
+    "name": "Naughty Cat Games",
+    "email": "NaughtyCatGames@gmail.com"
+  }
+}

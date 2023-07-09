@@ -1,0 +1,18 @@
+{
+    "name": "com.ncat.gameframeworks.editor",
+    "rootNamespace": "NCat.Editor",
+    "references": [
+        "GUID:4835f435ef83949daa49b7dd1d6aa2c6"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

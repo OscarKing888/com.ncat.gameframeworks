@@ -1,7 +1,7 @@
 {
   "name": "com.ncat.gameframeworks",
   "version": "0.1.0",
-  "displayName": "NCat Gameframeworks",
+  "displayName": "NCat Game Frameworks",
   "description": "This packages includes helpful runtime and editor additions of gameplay elements to Unity.",
   "unity": "2021.3",
   "keywords": [
